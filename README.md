@@ -1,4 +1,4 @@
-# 💾 Rust Admin -- Data Management System
+# 💾 Rust Admin -- Data Management System (Coming Soon!)
 
 ## 🌟 Project Overview
 
